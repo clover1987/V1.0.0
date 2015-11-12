@@ -1,0 +1,6 @@
+framework module CWVCompent {
+  umbrella header "CWVCompent.h"
+
+  export *
+  module * { export * }
+}
